@@ -1,4 +1,4 @@
-# Domain 1: Cloud Concepts, Architecture and Design
+# Domain 2: Cloud Data Security
 
 - 1.1 - Understand cloud computing concepts
 - 1.2 - Describe cloud reference architecture
