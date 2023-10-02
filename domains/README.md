@@ -23,3 +23,12 @@ Domain 3: Cloud Platform and Infrastructure Security
 - 3.3 - Analyze risks associated with cloud infrastructure
 - 3.4 - Design and plan security controls
 - 3.5 - Plan Disaster Recovery (DR) and Business Continuity (BC)
+
+Domain 4: Cloud Application Security
+- 4.1 - Advocate training and awareness for application security
+- 4.2 - Describe the Secure Software Development Life Cycle (SDLC) process
+- 4.3 - Apply the Secure Software Development Life Cycle (SDLC)
+- 4.4 - Apply cloud software assurance and validation
+- 4.5 - Use verified secure software
+- 4.6 - Comprehend the specifics of cloud application architecture
+- 4.7 - Design appropriate Identity and Access Management (IAM) solutions
