@@ -40,3 +40,10 @@ Domain 5: Cloud Security Operations
 - 5.4 - Support digital forensics
 - 5.5 - Manage communication with relevant parties
 - 5.6 - Manage security operations
+
+Domain 6: Legal, Risk and Compliance
+- 6.1 - Articulate legal requirements and unique risks within the cloud environment
+- 6.2 - Understand privacy issues
+- 6.3 - Understand audit process, methodologies, and required adaptations for a cloud environment
+- 6.4 - Understand implications of cloud to enterprise risk management
+- 6.5 - Understand outsourcing and cloud contract design
