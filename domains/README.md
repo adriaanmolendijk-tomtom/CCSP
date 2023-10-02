@@ -32,3 +32,11 @@ Domain 4: Cloud Application Security
 - 4.5 - Use verified secure software
 - 4.6 - Comprehend the specifics of cloud application architecture
 - 4.7 - Design appropriate Identity and Access Management (IAM) solutions
+
+Domain 5: Cloud Security Operations
+- 5.1 - Build and implement physical and logical infrastructure for cloud environment
+- 5.2 - Operate and maintain physical and logical infrastructure for cloud environment
+- 5.3 - Implement operational controls and standards (e.g., Information Technology Infrastructure Library (ITIL), International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 20000-1)
+- 5.4 - Support digital forensics
+- 5.5 - Manage communication with relevant parties
+- 5.6 - Manage security operations
