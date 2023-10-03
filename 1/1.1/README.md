@@ -56,3 +56,16 @@ Best known CSPs
 - Amazon Web Services (AWS) [https://aws.amazon.com/](https://aws.amazon.com/).
 - Microsoft Azure [https://azure.microsoft.com/en-us](https://azure.microsoft.com/en-us).
 - Google Cloud Platform (GCP) [https://cloud.google.com/](https://cloud.google.com/).
+
+### Key Cloud Computing Characteristics
+
+NIST SP 800-145 definition of cloud computing.
+- On demand self service
+- Broad network access
+- Multitenancy
+- Rapid elasticity and scalability
+- Resource pooling
+- Measured service
+
+### Building Block Technologies
+
