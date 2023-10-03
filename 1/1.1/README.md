@@ -14,3 +14,14 @@ Operating expenitures (OpEx)
 
 https://en.wikipedia.org/wiki/Operating_expense
 
+Three basic service models
+- Software as a service (SaaS)
+- Platform as a service (PaaS)
+- Infrastructure as a service (IaaS)
+
+Four cloud deployment models
+- Public
+- Private
+- Hybrid
+- Community
+
