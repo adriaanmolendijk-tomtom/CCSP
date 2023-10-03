@@ -5,27 +5,27 @@ Study notes for the [Certified Cloud Security Professional](https://www.isc2.org
 
 Domain 1: Cloud Concepts, Architecture and Design
 - [1.1 - Understand cloud computing concepts](1/1.1)
-- 1.2 - Describe cloud reference architecture
-- 1.3 - Understand security concepts relevant to cloud computing
-- 1.4 - Understand design principles of secure cloud computing
-- 1.5 - Evaluate cloud service providers
+- [1.2 - Describe cloud reference architecture](1/1.2)
+- [1.3 - Understand security concepts relevant to cloud computing](1/1.3)
+- [1.4 - Understand design principles of secure cloud computing](1/1.4)
+- [1.5 - Evaluate cloud service providers](1/1.5)
 
 Domain 2: Cloud Data Security
-- 2.1 - Describe cloud data concepts
-- 2.2 - Design and implement cloud data storage architectures
-- 2.3 - Design and apply data security technologies and strategies
-- 2.4 - Implement data discovery
-- 2.5 - Implement data classification
-- 2.6 - Design and implement Information Rights Management (IRM)
-- 2.7 - Plan and implement data retention, deletion, and archiving policies
-- 2.8 - Design and implement auditability, traceability, and accountability of data events
+- [2.1 - Describe cloud data concepts](2/2.1)
+- [2.2 - Design and implement cloud data storage architectures](2/2.2)
+- [2.3 - Design and apply data security technologies and strategies](2/2.3)
+- [2.4 - Implement data discovery](2/2.4)
+- [2.5 - Implement data classification](2/2.5)
+- [2.6 - Design and implement Information Rights Management (IRM)](2/2.6)
+- [2.7 - Plan and implement data retention, deletion, and archiving policies](2/2.7)
+- [2.8 - Design and implement auditability, traceability, and accountability of data events](2/2.8)
 
 Domain 3: Cloud Platform and Infrastructure Security
-- 3.1 - Comprehend cloud infrastructure components
-- 3.2 - Design a secure data center
-- 3.3 - Analyze risks associated with cloud infrastructure
-- 3.4 - Design and plan security controls
-- 3.5 - Plan Disaster Recovery (DR) and Business Continuity (BC)
+- [3.1 - Comprehend cloud infrastructure components](3/3.1)
+- [3.2 - Design a secure data center](3/3.2)
+- [3.3 - Analyze risks associated with cloud infrastructure](3/3.3)
+- [3.4 - Design and plan security controls](3/3.4)
+- [3.5 - Plan Disaster Recovery (DR) and Business Continuity (BC)](3/3.5)
 
 Domain 4: Cloud Application Security
 - 4.1 - Advocate training and awareness for application security
