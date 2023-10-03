@@ -41,3 +41,14 @@ Cloud service partner
 Cloud service broker
 > A broker of cloud services. A broker is an individual or firm that acts as an intermediary between two parties.
 
+The cloud shared responsibility model
+
+| Responbility                  | IaaS | PaaS | SaaS |
+|-------------------------------|------|------|------|
+| Data classification           | C    | C    | C    |
+| Identiy and Access Management | C    | C/P  | C/P  |
+| Application security          | C    | C/P  | C/P  |
+| Network security              | C/P  | P    | P    |
+| Host infrastructure           | C/P  | P    | P    |
+| Physical security             | P    | P    | P    |
+
