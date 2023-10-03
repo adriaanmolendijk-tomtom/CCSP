@@ -2,6 +2,8 @@
 
 ## Understand Cloud Computing Concepts
 
+### Cloud Computing Definitions
+
 Capital expenditures (CapEx)
 
 https://en.wikipedia.org/wiki/Capital_expenditure
@@ -24,4 +26,18 @@ Four cloud deployment models
 - Private
 - Hybrid
 - Community
+
+### Cloud Computing Roles and Responsibilities
+
+Cloud service customer
+> The person or company purchasing the cloud service.
+
+Cloud service provider
+> The company or other entity offering the cloud services.
+
+Cloud service partner
+> A third party offering a variety of cloud based services, using the cloud service provider.
+
+Cloud service broker
+> A broker of cloud services. A broker is an individual or firm that acts as an intermediary between two parties.
 
