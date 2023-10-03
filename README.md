@@ -4,7 +4,7 @@ Study notes for the [Certified Cloud Security Professional](https://www.isc2.org
 ## Domains
 
 Domain 1: Cloud Concepts, Architecture and Design
-- 1.1 - Understand cloud computing concepts
+- [1.1 - Understand cloud computing concepts](1/1.1)
 - 1.2 - Describe cloud reference architecture
 - 1.3 - Understand security concepts relevant to cloud computing
 - 1.4 - Understand design principles of secure cloud computing
