@@ -6,7 +6,7 @@
 
 Capital expenditures (CapEx)
 
-https://en.wikipedia.org/wiki/Capital_expenditure
+[https://en.wikipedia.org/wiki/Capital_expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
 
 > CapEx is a capital expenditure, sometimes called a capital expense, which is money a company uses to purchase, maintain, or expand fixed assets. These fixed assets are non-current, not liquid, long-term resources the company intends to use for more than a year.
 
@@ -14,7 +14,7 @@ Operating expenitures (OpEx)
 
 > An operating expense is an ongoing cost for running a product, business, or system.
 
-https://en.wikipedia.org/wiki/Operating_expense
+[https://en.wikipedia.org/wiki/Operating_expense](https://en.wikipedia.org/wiki/Operating_expense)
 
 Three basic service models
 - Software as a service (SaaS)
@@ -43,7 +43,7 @@ Cloud service broker
 
 The cloud shared responsibility model
 
-| Responbility                  | IaaS | PaaS | SaaS |
+| Responsibility                | IaaS | PaaS | SaaS |
 |-------------------------------|------|------|------|
 | Data classification           | C    | C    | C    |
 | Identiy and Access Management | C    | C/P  | C/P  |
@@ -52,3 +52,7 @@ The cloud shared responsibility model
 | Host infrastructure           | C/P  | P    | P    |
 | Physical security             | P    | P    | P    |
 
+Best known CSPs
+- Amazon Web Services (AWS) [https://aws.amazon.com/](https://aws.amazon.com/).
+- Microsoft Azure [https://azure.microsoft.com/en-us](https://azure.microsoft.com/en-us).
+- Google Cloud Platform (GCP) [https://cloud.google.com/](https://cloud.google.com/).
