@@ -28,25 +28,25 @@ Domain 3: Cloud Platform and Infrastructure Security
 - [3.5 - Plan Disaster Recovery (DR) and Business Continuity (BC)](3/3.5)
 
 Domain 4: Cloud Application Security
-- 4.1 - Advocate training and awareness for application security
-- 4.2 - Describe the Secure Software Development Life Cycle (SDLC) process
-- 4.3 - Apply the Secure Software Development Life Cycle (SDLC)
-- 4.4 - Apply cloud software assurance and validation
-- 4.5 - Use verified secure software
-- 4.6 - Comprehend the specifics of cloud application architecture
-- 4.7 - Design appropriate Identity and Access Management (IAM) solutions
+- [4.1 - Advocate training and awareness for application security](4/4.1)
+- [4.2 - Describe the Secure Software Development Life Cycle (SDLC) process](4/4.2)
+- [4.3 - Apply the Secure Software Development Life Cycle (SDLC)](4/4.3)
+- [4.4 - Apply cloud software assurance and validation](4/4.4)
+- [4.5 - Use verified secure software](4/4.5)
+- [4.6 - Comprehend the specifics of cloud application architecture](4/4.6)
+- [4.7 - Design appropriate Identity and Access Management (IAM) solutions](4/4.7)
 
 Domain 5: Cloud Security Operations
-- 5.1 - Build and implement physical and logical infrastructure for cloud environment
-- 5.2 - Operate and maintain physical and logical infrastructure for cloud environment
-- 5.3 - Implement operational controls and standards (e.g., Information Technology Infrastructure Library (ITIL), International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 20000-1)
-- 5.4 - Support digital forensics
-- 5.5 - Manage communication with relevant parties
-- 5.6 - Manage security operations
+- [5.1 - Build and implement physical and logical infrastructure for cloud environment](5/5.1)
+- [5.2 - Operate and maintain physical and logical infrastructure for cloud environment](5/5.2)
+- [5.3 - Implement operational controls and standards (e.g., Information Technology Infrastructure Library (ITIL), International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 20000-1)](5/5.3)
+- [5.4 - Support digital forensics](5/5.4)
+- [5.5 - Manage communication with relevant parties](5/5.5)
+- [5.6 - Manage security operations](5/5.6)
 
 Domain 6: Legal, Risk and Compliance
-- 6.1 - Articulate legal requirements and unique risks within the cloud environment
-- 6.2 - Understand privacy issues
-- 6.3 - Understand audit process, methodologies, and required adaptations for a cloud environment
-- 6.4 - Understand implications of cloud to enterprise risk management
-- 6.5 - Understand outsourcing and cloud contract design
+- [6.1 - Articulate legal requirements and unique risks within the cloud environment](6/6.1)
+- [6.2 - Understand privacy issues](6/6.2)
+- [6.3 - Understand audit process, methodologies, and required adaptations for a cloud environment](6/6.3)
+- [6.4 - Understand implications of cloud to enterprise risk management](6/6.4)
+- [6.5 - Understand outsourcing and cloud contract design](6/6.5)
