@@ -1,8 +1,6 @@
 # 1.1 - Understand Cloud Computing Concepts
 
-## Understand Cloud Computing Concepts
-
-### Cloud Computing Definitions
+## Cloud Computing Definitions
 
 Capital expenditures (CapEx)
 
@@ -27,7 +25,7 @@ Four cloud deployment models
 - Hybrid
 - Community
 
-### Cloud Computing Roles and Responsibilities
+## Cloud Computing Roles and Responsibilities
 
 Cloud service customer
 > The person or company purchasing the cloud service.
@@ -57,7 +55,7 @@ Best known CSPs
 - Microsoft Azure [https://azure.microsoft.com/en-us](https://azure.microsoft.com/en-us).
 - Google Cloud Platform (GCP) [https://cloud.google.com/](https://cloud.google.com/).
 
-### Key Cloud Computing Characteristics
+## Key Cloud Computing Characteristics
 
 NIST SP 800-145 definition of cloud computing.
 - On demand self service
@@ -67,7 +65,7 @@ NIST SP 800-145 definition of cloud computing.
 - Resource pooling
 - Measured service
 
-### Building Block Technologies
+## Building Block Technologies
 
 Virtualization
 
