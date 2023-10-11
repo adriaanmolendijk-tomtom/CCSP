@@ -36,3 +36,23 @@ Performing a business impact analysis allows an organization to identify critica
 
 ## Security Considerations for Different Cloud Categories
 
+Cloud security is designed to address risks that exist in typical cloud infrastructure, usually including
+- Data
+- APIs
+- Applications
+- Middleware
+- Operating systems
+- Virtualization
+- Hypervisors
+- Compute and memory
+- Data storage
+- Networks
+- Physical facilities
+
+## Cloud Design Patterns
+
+- SANS security principles
+- Well architected framework
+- Cloud Security Alliance enterprise architecture
+
+## DevOps Security
