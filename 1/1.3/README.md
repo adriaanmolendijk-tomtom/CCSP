@@ -29,5 +29,25 @@ Types of sanitization techniques include the following.
 
 ## Virtualization Security
 
-- Hypervisor security
+Hypervisor type 1 is generally faster and more secure but requires special skills to set up and maintain.
+Hypervisor type 2 run on top of a host operating system like Windows or macOS. These are easier to set up, typically requiring only the skills needed to install the virtualization application.
 
+Virtual machine escape
+
+[https://en.wikipedia.org/wiki/Virtual_machine_escape](https://en.wikipedia.org/wiki/Virtual_machine_escape)
+
+> In computer security, virtual machine escape is the process of a program breaking out of the virtual machine on which it is running and interacting with the host operating system.
+
+Other considerations
+- Container security
+- Ephemeral computing
+- Serverless technology
+
+## Common Threats
+
+The Cloud Security Alliance (CSA) publishes a list of common cloud threats known as the Egregious Eleven.
+
+## Security Hygiene
+
+- Patching
+- Baseline
