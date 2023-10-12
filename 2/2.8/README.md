@@ -22,7 +22,7 @@
 
 ## Chain of Custody and Nonrepudation
 
-Chain of custoday
+Chain of custody
 
 [https://en.wikipedia.org/wiki/Chain_of_custody](https://en.wikipedia.org/wiki/Chain_of_custody)
 
