@@ -36,3 +36,8 @@ Payment card industry data security standard (PCI DSS)
 ## Data mapping
 
 ## Data labeling
+
+- Hard-copy materials
+- Physical assets
+- Digital files
+- Some complex or shared systems and data sets
