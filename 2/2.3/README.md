@@ -47,3 +47,15 @@ Tokenization
 > Tokenization, when applied to data security, is the process of substituting a sensitive data element with a non-sensitive equivalent, referred to as a token, that has no intrinsic or exploitable meaning or value.
 
 ## Data Loss Prevention (DLP)
+
+- Discovery
+- Monitoring
+- At-rest
+- In-use
+- Enforcement
+
+## Keys, Secrets and Certificates Management
+
+- Keys
+- Secrets
+- Certificates
