@@ -1,2 +1,18 @@
 # 2.1 - Describe cloud data concepts
 
+## Cloud data lifecycle phases
+
+- Create
+- Store
+- Use
+- Share
+- Archive
+- Destroy
+
+## Data Dispersion
+
+Data dispersion refers to a techniques of breaking data into smaller chunks and storing them across different physcial storage devices.
+
+## Data Flows
+
+Data flow diagrams can be used to gain visibility and ensure that adequate controls are implemented.
