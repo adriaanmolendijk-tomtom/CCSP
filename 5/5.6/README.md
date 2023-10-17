@@ -1,9 +1,2 @@
-# 5.6 - Manage security operations
-
-
-
-
-
-
-
+# 5.6 - Manage communication with relevant parties
 

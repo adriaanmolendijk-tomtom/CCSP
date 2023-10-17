@@ -39,10 +39,10 @@ Domain 4: Cloud Application Security
 Domain 5: Cloud Security Operations
 - [5.1 - Build and implement physical and logical infrastructure for cloud environment](5/5.1)
 - [5.2 - Operate and maintain physical and logical infrastructure for cloud environment](5/5.2)
-- [5.3 - Implement operational controls and standards (e.g., Information Technology Infrastructure Library (ITIL), International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 20000-1)](5/5.3)
-- [5.4 - Support digital forensics](5/5.4)
-- [5.5 - Manage communication with relevant parties](5/5.5)
-- [5.6 - Manage security operations](5/5.6)
+- [5.3 - Implement operational controls and standards (e.g., Information Technology Infrastructure Library (ITIL), International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 20000-1)](5/5.4)
+- [5.4 - Support digital forensics](5/5.5)
+- [5.5 - Manage communication with relevant parties](5/5.6)
+- [5.6 - Manage security operations](5/5.7)
 
 Domain 6: Legal, Risk and Compliance
 - [6.1 - Articulate legal requirements and unique risks within the cloud environment](6/6.1)

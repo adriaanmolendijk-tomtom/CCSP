@@ -1,7 +1,2 @@
-# 5.4 - Support digital forensics
-
-
-
-
-
+# 5.4 - Implement operational controls and standards (e.g., Information Technology Infrastructure Library (ITIL), International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 20000-1)
 
