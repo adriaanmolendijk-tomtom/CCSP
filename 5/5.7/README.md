@@ -9,3 +9,25 @@
   - Incident response
   - Compliance management
 - Monitoring security controls
+  - Network security controls
+  - Performance and capacity
+  - Vulnerability assessments
+- Log capture and analysis
+  - Centralization
+  - Normalization
+  - Correlation and detection
+  - Alerting
+  - Log management
+- Incident management
+  - Incident response plan
+  - Incident response team
+  - Root-cause analysis
+  - Incident classification
+  - Incident response phases
+    - Prepare
+    - Detect
+    - Respond
+    - Recover
+    - Post incident
+  - Cloud specific incident management
+  - Incident management standards
