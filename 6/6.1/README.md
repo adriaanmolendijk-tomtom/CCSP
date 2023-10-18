@@ -1,2 +1,22 @@
 # 6.1 - Articulate legal requirements and unique risks within the cloud environment
 
+- Conflicting international regulation
+- Evaluation of legal risks specific to cloud computing
+  - Different legal requirements
+  - Different legal systems and frameworks in different countries
+  - Conflicting laws
+- Legal frameworks and guidelines
+  - The Organization for Economic Co-operation and Development
+  - Asia-Pacific Economic Cooperation Private Framework
+  - General Data Protection Regulation ([https://gdpr.eu/what-is-gdpr](https://gdpr.eu/what-is-gdpr))
+    - Data controller
+    - Data processor
+    - Data subject
+    - 7 principles
+  - Health Insurance Portability and Accountability Act (HIPAA)
+  - Payment Card Industry Data Security Standard (PCI DSS)
+  - Privacy Shield
+  - Sarbanes-Oxley Act (SOX)
+- eDiscovery
+- Forensics requirements
+  - 5 different standards
