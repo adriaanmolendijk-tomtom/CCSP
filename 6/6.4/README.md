@@ -1,5 +1,26 @@
 # 6.4 - Understand implications of cloud to enterprise risk management
 
-
-
-
+- Assess provider's risk management programs
+  - SOC 2
+  - ISO 27001
+  - FedRAMP
+  - CSA STAR
+- Difference between data owner/controller and data custodian/processor
+- Regulatory transparency requirements
+- Risk treatment
+  - Avoid
+  - Transfer
+  - Mitigate
+  - Accept
+- Risk frameworks
+  - ISO 31000
+  - ENISA
+  - NIST
+- Metrics for risk management
+  - Patching levels
+  - Time to deploy patches
+  - Intrusion attempts
+  - Mean time to detect, mean time to contain, mean time to resolve
+- Assessment of risk environment
+  - ISO 15408-1:2009:The common criteria
+  - CSA STAR
