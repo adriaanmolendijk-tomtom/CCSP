@@ -1,6 +1,6 @@
 # O
 
-## Operating expenitures (OpEx)
+## Operating Expenditures (OpEx)
 
 [https://en.wikipedia.org/wiki/Operating_expense](https://en.wikipedia.org/wiki/Operating_expense)
 

@@ -1,6 +1,6 @@
 # C
 
-##  Capital expenditures (CapEx)
+##  Capital Expenditures (CapEx)
 
 [https://en.wikipedia.org/wiki/Capital_expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
 

@@ -2,13 +2,13 @@
 
 ## Cloud Computing Definitions
 
-- [Capital expenditure](../../../definitions/C.md#capital-expenditures-capex)
-- [Operating expenditure](../../../definitions/O.md#operating-expenitures-opex)
+- [Capital expenditures](../../../definitions/C.md#capital-expenditures-capex)
+- [Operating expenditures](../../../definitions/O.md#operating-expenitures-opex)
 
 Three basic service models
-- Software as a service (SaaS)
-- Platform as a service (PaaS)
-- Infrastructure as a service (IaaS)
+- [Software as a service](../../../definitions/S.md#software-as-a-service)
+- [Platform as a service](../../../definitions/P.md#platform-as-a-service-paas)
+- [Infrastructure as a service](../../../definitions/I.md#infrastructure-as-a-service-iaas)
 
 Four cloud deployment models
 - Public
