@@ -2,13 +2,8 @@
 
 ## Cloud Computing Definitions
 
-[Capital expenditure](../../../definitions/C.md#capital-expenditures-capex)
-
-Operating expenitures (OpEx)
-
-> An operating expense is an ongoing cost for running a product, business, or system.
-
-[https://en.wikipedia.org/wiki/Operating_expense](https://en.wikipedia.org/wiki/Operating_expense)
+- [Capital expenditure](../../../definitions/C.md#capital-expenditures-capex)
+- [Operating expenditure](../../../definitions/O.md#operating-expenitures-opex)
 
 Three basic service models
 - Software as a service (SaaS)
