@@ -48,7 +48,7 @@ Best known CSPs
 
 ## Key Cloud Computing Characteristics
 
-NIST SP 800-145 definition of cloud computing.
+[NIST SP 800-145](https://csrc.nist.gov/pubs/sp/800/145/final) definition of cloud computing.
 - On demand self service
 - Broad network access
 - Multitenancy
@@ -58,5 +58,8 @@ NIST SP 800-145 definition of cloud computing.
 
 ## Building Block Technologies
 
-[Virtualization](../../../definitions/V.md#virtualization)
-
+- [Virtualization](../../../definitions/V.md#virtualization)
+- Storage
+- Networking
+- Databases
+- Orchestration
