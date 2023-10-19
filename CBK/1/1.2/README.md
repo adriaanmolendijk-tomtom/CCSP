@@ -58,3 +58,4 @@ Other considerations
 - [Quantum computing](../../../definitions/Q.md#quantum-computing)
 - [Edge computing](../../../definitions/E.md#edge-computing)
 - [Confidential computing](../../../definitions/C.md#confidential-computing)
+- DevSecOps
