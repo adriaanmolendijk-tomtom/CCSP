@@ -1,1 +1,30 @@
 # 6.5 - Understand outsourcing and cloud contract design
+
+- Business requirements
+  - Master service agreement (MSA)
+  - Statement of work (SOW)
+  - Service level agreement (SLA)
+- Vendor management
+  - Assess vendors
+  - Assess vendor lock-in risks
+  - Assess vendor viability
+  - Explore escrow options
+- Contract management
+  - Right to audit
+  - Metrics
+  - Definitions
+  - Termination
+  - Litigation
+  - Assurance
+  - Compliance
+  - Access to cloud/data
+- Cyber risk insurance
+  - Investigation
+  - Direct business losses
+  - Recovery costs
+  - Legal notifications
+  - Lawsuits
+  - Extortion
+  - Food and related expenses
+- Supply chain management
+  - ISO 27036
