@@ -6,6 +6,12 @@
 
 > CapEx is a capital expenditure, sometimes called a capital expense, which is money a company uses to purchase, maintain, or expand fixed assets. These fixed assets are non-current, not liquid, long-term resources the company intends to use for more than a year.
 
+## Common Criteria (CC)
+
+[https://en.wikipedia.org/wiki/Common_Criteria](https://en.wikipedia.org/wiki/Common_Criteria)
+
+> The Common Criteria for Information Technology Security Evaluation (referred to as Common Criteria or CC) is an international standard (ISO/IEC 15408) for computer security certification. It is currently in version 3.1 revision 5. Common Criteria is a framework in which computer system users can specify their security functional and assurance requirements (SFRs and SARs respectively) in a Security Target (ST), and may be taken from Protection Profiles (PPs).
+
 ## Confidential computing
 
 [https://en.wikipedia.org/wiki/Confidential_computing](https://en.wikipedia.org/wiki/Confidential_computing)

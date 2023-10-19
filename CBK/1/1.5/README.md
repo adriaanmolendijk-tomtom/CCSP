@@ -2,18 +2,12 @@
 
 ## Verification Against Criteria
 
-Internatinal organization for standardization
+- [International Organization for Standardization](../../../definitions/I.md#international-organization-for-standardization-iso)
+- [Payment Card Industry Data Security Standard](../../../definitions/P.md#payment-card-industry-data-security-standard-pci-dss)
+- [Federal Risk and Authorization Management Program](../../../definitions/F.md#federal-risk-and-authorization-management-program-fedramp)
+- [CSA Security, Trust, Assurance and Risk](https://cloudsecurityalliance.org/star/)
 
-[https://www.iso.org/home.html](https://www.iso.org/home.html)
+## System/Subsystem Product Certifications
 
-Payment card industry council
-
-[https://www.pcisecuritystandards.org/](https://www.pcisecuritystandards.org/)
-
-CSA Security, Trust, Assurance and Risk (STAR)
-
-[https://cloudsecurityalliance.org/star/](https://cloudsecurityalliance.org/star/)
-
-Common Criteria
-
-[https://www.commoncriteriaportal.org/](https://www.commoncriteriaportal.org/)
+- [Common Criteria](../../../definitions/C.md#common-criteria-cc)
+- [FIPS 140-2](../../../definitions/F.md#fips-140-2)

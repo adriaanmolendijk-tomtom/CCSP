@@ -11,3 +11,9 @@
 [https://en.wikipedia.org/wiki/Internet_of_things](https://en.wikipedia.org/wiki/Internet_of_things)
 
 > The Internet of things (IoT) describes devices with sensors, processing ability, software and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks.
+
+## International Organization for Standardization (ISO)
+
+[https://en.wikipedia.org/wiki/International_Organization_for_Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
+
+> The International Organization for Standardization (ISO /ˈaɪsoʊ/) is an international standard development organization composed of representatives from the national standards organizations of member countries. Membership requirements are given in Article 3 of the ISO Statutes.
