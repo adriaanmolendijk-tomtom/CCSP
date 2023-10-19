@@ -11,3 +11,15 @@
 [https://en.wikipedia.org/wiki/Confidential_computing](https://en.wikipedia.org/wiki/Confidential_computing)
 
 > Confidential computing is a security and privacy-enhancing computational technique focused on protecting data in use.
+
+## Cryptographic Erasure
+
+[https://en.wikipedia.org/wiki/Crypto-shredding](https://en.wikipedia.org/wiki/Crypto-shredding)
+
+> Crypto-shredding is the practice of 'deleting' data by deliberately deleting or overwriting the encryption keys. This requires that the data have been encrypted. Data may be considered to exist in three states: data at rest, data in transit and data in use. General data security principles, such as in the CIA triad of confidentiality, integrity, and availability, require that all three states must be adequately protected.
+
+## Cryptography
+
+[https://en.wikipedia.org/wiki/Cryptography](https://en.wikipedia.org/wiki/Cryptography)
+
+> Cryptography, or cryptology (from Ancient Greek: κρυπτός, romanized: kryptós "hidden, secret"; and γράφειν graphein, "to write", or -λογία -logia, "study", respectively), is the practice and study of techniques for secure communication in the presence of adversarial behavior.

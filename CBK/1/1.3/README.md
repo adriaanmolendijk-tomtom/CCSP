@@ -2,6 +2,8 @@
 
 ## Cryptography and Key Management
 
+- [Cryptography](../../../definitions/C.md#cryptography)
+
 Some considerations.
 - Where are the keys stored?
 - Who generates and manages the keys?
@@ -19,35 +21,30 @@ There are multiple types of access control.
 
 Types of sanitization techniques include the following.
 - Overwriting
-- Cryptographic erasure
+- [Cryptographic erasure](../../../definitions/C.md#cryptographic-erasure)
 
 ## Netowrk Security
 
 - Network security groups
-- Zero trust network (formal definition can be found in NIST SP 800-207)
+- [Zero trust](../../../definitions/Z.md#zero-trust) network (formal definition can be found in [NIST SP 800-207](https://csrc.nist.gov/pubs/sp/800/207/final))
 - Ingress and egress monitoring
 
 ## Virtualization Security
 
-Hypervisor type 1 is generally faster and more secure but requires special skills to set up and maintain.
-Hypervisor type 2 run on top of a host operating system like Windows or macOS. These are easier to set up, typically requiring only the skills needed to install the virtualization application.
-
-Virtual machine escape
-
-[https://en.wikipedia.org/wiki/Virtual_machine_escape](https://en.wikipedia.org/wiki/Virtual_machine_escape)
-
-> In computer security, virtual machine escape is the process of a program breaking out of the virtual machine on which it is running and interacting with the host operating system.
+- Hypervisor type 1 is generally faster and more secure but requires special skills to set up and maintain.
+- Hypervisor type 2 run on top of a host operating system like Windows or macOS. These are easier to set up, typically requiring only the skills needed to install the virtualization application.
+- [Virtual machine escape](../../../definitions/V.md#virtual-machine-escape)
 
 Other considerations
 - Container security
 - Ephemeral computing
-- Serverless technology
+- [Serverless technology](../../../definitions/S.md#serverless-computing)
 
 ## Common Threats
 
-The Cloud Security Alliance (CSA) publishes a list of common cloud threats known as the Egregious Eleven.
+[The Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/) publishes a list of common cloud threats known as the Egregious Eleven.
 
 ## Security Hygiene
 
 - Patching
-- Baseline
+- Baselining
