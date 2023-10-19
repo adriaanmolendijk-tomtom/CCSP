@@ -12,14 +12,9 @@ The cloud secure data lifecycle consists of the following steps.
 
 ## Cloud-Based Business Continuity and Disaster Recovery Plan
 
-Business continuity plan
-> Focused on keeping a business running following a disaster such as weather, civil unrest, terrorism, etc.
-
-Disaster recovery plan
-> Focused on return to normal business operations, which can be a lengthy process.
-
-Availability zone
-> Independent data centers that protect the customer from data center failures.
+- [Business continuity planning](../../../definitions/B.md#business-continuity-planning)
+- [Disaster Recovery](../../../definitions/D.md#disaster-recovery)
+- Availability zone
 
 ## Business Impact Analysis
 
@@ -42,7 +37,7 @@ Cloud security is designed to address risks that exist in typical cloud infrastr
 - Applications
 - Middleware
 - Operating systems
-- Virtualization
+- [Virtualization](../../../definitions/V.md#virtualization)
 - Hypervisors
 - Compute and memory
 - Data storage
@@ -51,8 +46,12 @@ Cloud security is designed to address risks that exist in typical cloud infrastr
 
 ## Cloud Design Patterns
 
-- SANS security principles
+- [SANS](https://www.sans.org/emea/) security principles
 - Well architected framework
-- Cloud Security Alliance enterprise architecture
+  - Azure [https://learn.microsoft.com/en-us/azure/well-architected/](https://learn.microsoft.com/en-us/azure/well-architected/)
+- Cloud Security Alliance 
+  - Enterprise Architecture [https://cloudsecurityalliance.org/research/topics/enterprise-architecture/](https://cloudsecurityalliance.org/research/topics/enterprise-architecture/)
 
 ## DevOps Security
+
+[DevOps](../../../definitions/D.md#devops)
