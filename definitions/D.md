@@ -1,16 +1,34 @@
 # D
 
-## Data obfuscation
+## Data Lake
+
+[https://en.wikipedia.org/wiki/Data_lake](https://en.wikipedia.org/wiki/Data_lake)
+
+> A data lake is a system or repository of data stored in its natural/raw format, usually object blobs or files. A data lake is usually a single store of data including raw copies of source system data, sensor data, social data etc., and transformed data used for tasks such as reporting, visualization, advanced analytics and machine learning.
+
+## Data Mining
+
+[https://en.wikipedia.org/wiki/Data_mining](https://en.wikipedia.org/wiki/Data_mining)
+
+> Data mining is the process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.
+
+## Data Obfuscation
 
 [https://en.wikipedia.org/wiki/Data_masking](https://en.wikipedia.org/wiki/Data_masking)
 
 > Data masking or data obfuscation is the process of modifying sensitive data in such a way that it is of no or little value to unauthorized intruders while still being usable by software or authorized personnel.
 
-## Data science
+## Data Science
 
 [https://en.wikipedia.org/wiki/Data_science](https://en.wikipedia.org/wiki/Data_science)
 
 > Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured, and unstructured data.
+
+## Data Warehouse
+
+[https://en.wikipedia.org/wiki/Data_warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
+
+> In computing, a data warehouse (DW or DWH), also known as an enterprise data warehouse (EDW), is a system used for reporting and data analysis and is considered a core component of business intelligence.
 
 ## De-identification
 

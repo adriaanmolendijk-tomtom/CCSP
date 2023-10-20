@@ -1,7 +1,13 @@
 # M
 
-## Machine learning
+## Machine Learning
 
 [https://en.wikipedia.org/wiki/Machine_learning](https://en.wikipedia.org/wiki/Machine_learning)
 
 > Machine learning (ML) is an umbrella term for solving problems for which development of algorithms by human programmers would be cost-prohibitive, and instead the problems are solved by helping machines "discover" their "own" algorithms, without needing to be explicitly told what to do by any human-developed algorithms.
+
+## Metadata
+
+[https://en.wikipedia.org/wiki/Metadata](https://en.wikipedia.org/wiki/Metadata)
+
+> Metadata (or metainformation) is "data that provides information about other data", but not the content of the data itself, such as the text of a message or the image itself.

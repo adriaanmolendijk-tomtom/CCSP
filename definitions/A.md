@@ -1,6 +1,6 @@
 # A
 
-## Artificial intelligence (AI)
+## Artificial Intelligence (AI)
 
 [https://en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 

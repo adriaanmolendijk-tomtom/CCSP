@@ -1,6 +1,6 @@
 # E
 
-## Edge computing
+## Edge Computing
 
 [https://en.wikipedia.org/wiki/Edge_computing](https://en.wikipedia.org/wiki/Edge_computing)
 

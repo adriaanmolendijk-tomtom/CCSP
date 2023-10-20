@@ -1,6 +1,6 @@
 # H
 
-## Hash function
+## Hash Function
 
 [https://en.wikipedia.org/wiki/Hash_function](https://en.wikipedia.org/wiki/Hash_function)
 

@@ -6,7 +6,7 @@
 
 > A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes.
 
-## Business continuity planning
+## Business Continuity Planning
 
 [https://en.wikipedia.org/wiki/Business_continuity_planning](https://en.wikipedia.org/wiki/Business_continuity_planning)
 

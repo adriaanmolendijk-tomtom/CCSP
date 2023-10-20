@@ -12,7 +12,7 @@
 
 > The Common Criteria for Information Technology Security Evaluation (referred to as Common Criteria or CC) is an international standard (ISO/IEC 15408) for computer security certification. It is currently in version 3.1 revision 5. Common Criteria is a framework in which computer system users can specify their security functional and assurance requirements (SFRs and SARs respectively) in a Security Target (ST), and may be taken from Protection Profiles (PPs).
 
-## Confidential computing
+## Confidential Computing
 
 [https://en.wikipedia.org/wiki/Confidential_computing](https://en.wikipedia.org/wiki/Confidential_computing)
 

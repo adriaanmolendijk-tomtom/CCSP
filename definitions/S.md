@@ -6,7 +6,7 @@
 
 > Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers. "Serverless" is a misnomer in the sense that servers are still used by cloud service providers to execute code for developers.
 
-## Service level agreement (SLA)
+## Service Level Agreement (SLA)
 
 [https://en.wikipedia.org/wiki/Service-level_agreement](https://en.wikipedia.org/wiki/Service-level_agreement)
 

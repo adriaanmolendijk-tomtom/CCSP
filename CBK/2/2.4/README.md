@@ -1,18 +1,15 @@
 # 2.4 - Implement data discovery
 
-- Data lake and data warehouse
+- [Data lake](../../../definitions/D.md#data-lake)
+- [Data warehouse](../../../definitions/D.md#data-warehouse)
 - Data mart
-- Data mining
+- [Data mining](../../../definitions/D.md#data-mining)
 - Online analytic processing
 - ML/AI training
 
 ## Structured Data
 
-Metadata 
-
-[https://en.wikipedia.org/wiki/Metadata](https://en.wikipedia.org/wiki/Metadata)
-
-> Metadata (or metainformation) is "data that provides information about other data", but not the content of the data itself, such as the text of a message or the image itself.
+[Metadata](../../../definitions/M.md#metadata)
 
 ## Unstructured Data
 
@@ -27,4 +24,3 @@ Metadata
 - JSON
 
 ## Data location
-

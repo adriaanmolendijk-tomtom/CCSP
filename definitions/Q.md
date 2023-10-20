@@ -1,6 +1,6 @@
 # Q
 
-## Quantum computing
+## Quantum Computing
 
 [https://en.wikipedia.org/wiki/Quantum_computing](https://en.wikipedia.org/wiki/Quantum_computing)
 
