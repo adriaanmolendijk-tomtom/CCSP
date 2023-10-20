@@ -1,8 +1,24 @@
 # 3.1 - Comprehend cloud infrastructure components
 
-- Physical environment
-- Network communications
-- Compute
-- Virtualization
-- Storage
-- Management plane
+## Physical Environment
+
+- [Multi-factor authentication](../../../definitions/M.md#multi-factor-authentication-mfa)
+- [Single-sign on](../../../definitions/S.md#single-sign-on-sso)
+
+## Network Communications
+
+- [HTTPS](../../../definitions/H.md#hypertext-transfer-protocol-secure-https)
+- [VPN](../../../definitions/V.md#virtual-private-network-vpn)
+
+## Compute
+
+## Virtualization
+
+- [Virtual machine escape](../../../definitions/V.md#virtual-machine-escape)
+- [Software defined networking](../../../definitions/S.md#software-defined-networking-sdn)
+
+## Storage
+
+## Management Plane
+
+- [RBAC](../../../definitions/R.md#role-based-access-control-rbac)

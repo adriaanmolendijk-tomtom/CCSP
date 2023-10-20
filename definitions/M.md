@@ -11,3 +11,9 @@
 [https://en.wikipedia.org/wiki/Metadata](https://en.wikipedia.org/wiki/Metadata)
 
 > Metadata (or metainformation) is "data that provides information about other data", but not the content of the data itself, such as the text of a message or the image itself.
+
+## Multi-Factor Authentication (MFA)
+
+[https://en.wikipedia.org/wiki/Multi-factor_authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+
+> Multi-factor authentication (MFA; two-factor authentication, or 2FA, along with similar terms) is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism.

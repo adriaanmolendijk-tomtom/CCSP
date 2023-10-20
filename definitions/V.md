@@ -6,6 +6,12 @@
 
 > In computer security, virtual machine escape is the process of a program breaking out of the virtual machine on which it is running and interacting with the host operating system.
 
+## Virtual Private Network (VPN)
+
+[https://en.wikipedia.org/wiki/Virtual_private_network](https://en.wikipedia.org/wiki/Virtual_private_network)
+
+> A virtual private network (VPN) is a mechanism for creating a secure connection between a computing device and a computer network, or between two networks, using an insecure communication medium such as the public Internet.
+
 ## Virtualization
 
 [https://en.wikipedia.org/wiki/Virtualization](https://en.wikipedia.org/wiki/Virtualization)
