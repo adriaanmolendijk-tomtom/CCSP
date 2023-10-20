@@ -6,6 +6,12 @@
 
 > CapEx is a capital expenditure, sometimes called a capital expense, which is money a company uses to purchase, maintain, or expand fixed assets. These fixed assets are non-current, not liquid, long-term resources the company intends to use for more than a year.
 
+## Chain of custody
+
+[https://en.wikipedia.org/wiki/Chain_of_custody](https://en.wikipedia.org/wiki/Chain_of_custody)
+
+> Chain of custody (CoC), in legal contexts, is the chronological documentation or paper trail that records the sequence of custody, control, transfer, analysis, and disposition of materials, including physical or electronic evidence.
+
 ## Common Criteria (CC)
 
 [https://en.wikipedia.org/wiki/Common_Criteria](https://en.wikipedia.org/wiki/Common_Criteria)

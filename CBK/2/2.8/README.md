@@ -22,9 +22,4 @@
 
 ## Chain of Custody and Nonrepudation
 
-Chain of custody
-
-[https://en.wikipedia.org/wiki/Chain_of_custody](https://en.wikipedia.org/wiki/Chain_of_custody)
-
-> Chain of custody (CoC), in legal contexts, is the chronological documentation or paper trail that records the sequence of custody, control, transfer, analysis, and disposition of materials, including physical or electronic evidence.
-
+[Chain of custody](../../../definitions/C.md#chain-of-custody)
