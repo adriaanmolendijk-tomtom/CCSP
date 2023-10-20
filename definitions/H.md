@@ -6,6 +6,8 @@
 
 > A hash function is any function that can be used to map data of arbitrary size to fixed-size values, though there are some hash functions that support variable length output.
 
+## Heating, Ventilation, and Air Conditioning (HVAC)
+
 ## Hypertext Transfer Protocol Secure (HTTPS)
 
 [https://en.wikipedia.org/wiki/HTTPS](https://en.wikipedia.org/wiki/HTTPS)

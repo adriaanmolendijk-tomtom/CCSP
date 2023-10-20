@@ -1,5 +1,11 @@
 # I
 
+## Identity Access Management (IAM)
+
+[https://en.wikipedia.org/wiki/Identity_management](https://en.wikipedia.org/wiki/Identity_management)
+
+> Identity management (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies to ensure that the right users (that are part of the ecosystem connected to or within an enterprise) have the appropriate access to technology resources.
+
 ## Information Rights Management (IRM)
 
 [https://en.wikipedia.org/wiki/Information_rights_management](https://en.wikipedia.org/wiki/Information_rights_management)
