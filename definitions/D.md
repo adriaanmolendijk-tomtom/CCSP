@@ -36,6 +36,12 @@
 
 > De-identification is the process used to prevent someone's personal identity from being revealed. For example, data produced during human subject research might be de-identified to preserve the privacy of research participants. Biological data may be de-identified in order to comply with HIPAA regulations that define and stipulate patient privacy laws.
 
+## Denial of Service (DoS)
+
+[https://en.wikipedia.org/wiki/Denial-of-service_attack](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+
+> In computing, a denial-of-service attack (DoS attack) is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to a network.
+
 ## DevOps
 
 [https://en.wikipedia.org/wiki/DevOps](https://en.wikipedia.org/wiki/DevOps)

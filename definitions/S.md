@@ -1,5 +1,11 @@
 # S
 
+## Security Information and Event Management (SIEM)
+
+[https://en.wikipedia.org/wiki/Security_information_and_event_management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
+
+> Security information and event management (SIEM) is a field within the field of computer security, where software products and services combine security information management (SIM) and security event management (SEM).
+
 ## Serverless Computing
 
 [https://en.wikipedia.org/wiki/Serverless_computing](https://en.wikipedia.org/wiki/Serverless_computing)
