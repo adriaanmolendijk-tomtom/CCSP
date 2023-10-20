@@ -1,5 +1,11 @@
 # I
 
+## Information Rights Management (IRM)
+
+[https://en.wikipedia.org/wiki/Information_rights_management](https://en.wikipedia.org/wiki/Information_rights_management)
+
+> Information rights management (IRM) is a subset of digital rights management (DRM), technologies that protect sensitive information from unauthorized access.
+
 ## Infrastructure as a Service (IaaS)
 
 [https://en.wikipedia.org/wiki/Infrastructure_as_a_service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)
