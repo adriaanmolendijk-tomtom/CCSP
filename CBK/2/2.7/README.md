@@ -15,7 +15,7 @@ Data retention practices include
 
 ## Data Deletion Procedures and Mechanisms
 
-NIST SP 800-88, Guidelines for Media Sanitization is a widely available standard.
+[NIST SP 800-88](https://csrc.nist.gov/pubs/sp/800/88/r1/final), Guidelines for Media Sanitization is a widely available standard.
 - Clear
 - Purge
 - Destroy
@@ -24,8 +24,4 @@ NIST SP 800-88, Guidelines for Media Sanitization is a widely available standard
 
 ## Legal Hold
 
-Legal Hold
-
-[https://en.wikipedia.org/wiki/Legal_hold](https://en.wikipedia.org/wiki/Legal_hold)
-
-> A legal hold is a process that an organization uses to preserve all forms of potentially relevant information when litigation is pending or reasonably anticipated.
+[Legal Hold](../../../definitions/L.md#legal-hold)
