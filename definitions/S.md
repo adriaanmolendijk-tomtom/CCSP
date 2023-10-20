@@ -29,3 +29,9 @@
 [https://en.wikipedia.org/wiki/Software-defined_networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 
 > Software-defined networking (SDN) technology is an approach to network management that enables dynamic, programmatically efficient network configuration to improve network performance and monitoring, in a manner more akin to cloud computing than to traditional network management.
+
+## Supply Chain Risk Management (SCRM)
+
+[https://en.wikipedia.org/wiki/Supply_chain_risk_management](https://en.wikipedia.org/wiki/Supply_chain_risk_management)
+
+> Supply chain risk management (SCRM) is "the implementation of strategies to manage both everyday and exceptional risks along the supply chain based on continuous risk assessment with the objective of reducing vulnerability and ensuring continuity".
