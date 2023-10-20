@@ -1,10 +1,22 @@
 # D
 
+## Data obfuscation
+
+[https://en.wikipedia.org/wiki/Data_masking](https://en.wikipedia.org/wiki/Data_masking)
+
+> Data masking or data obfuscation is the process of modifying sensitive data in such a way that it is of no or little value to unauthorized intruders while still being usable by software or authorized personnel.
+
 ## Data science
 
 [https://en.wikipedia.org/wiki/Data_science](https://en.wikipedia.org/wiki/Data_science)
 
 > Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured, and unstructured data.
+
+## De-identification
+
+[https://en.wikipedia.org/wiki/De-identification](https://en.wikipedia.org/wiki/De-identification)
+
+> De-identification is the process used to prevent someone's personal identity from being revealed. For example, data produced during human subject research might be de-identified to preserve the privacy of research participants. Biological data may be de-identified in order to comply with HIPAA regulations that define and stipulate patient privacy laws.
 
 ## DevOps
 
