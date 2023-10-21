@@ -30,6 +30,12 @@
 
 > In computing, a data warehouse (DW or DWH), also known as an enterprise data warehouse (EDW), is a system used for reporting and data analysis and is considered a core component of business intelligence.
 
+## Database Activity Monitoring (DAM)
+
+[https://en.wikipedia.org/wiki/Database_activity_monitoring](https://en.wikipedia.org/wiki/Database_activity_monitoring)
+
+> Database activity monitoring (DAM, a.k.a. Enterprise database auditing and Real-time protection) is a database security technology for monitoring and analyzing database activity. DAM may combine data from network-based monitoring and native audit information to provide a comprehensive picture of database activity. The data gathered by DAM is used to analyze and report on database activity, support breach investigations, and alert on anomalies. DAM is typically performed continuously and in real-time.
+
 ## De-identification
 
 [https://en.wikipedia.org/wiki/De-identification](https://en.wikipedia.org/wiki/De-identification)
