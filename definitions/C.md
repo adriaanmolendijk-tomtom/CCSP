@@ -12,6 +12,12 @@
 
 > Chain of custody (CoC), in legal contexts, is the chronological documentation or paper trail that records the sequence of custody, control, transfer, analysis, and disposition of materials, including physical or electronic evidence.
 
+## CLOUD Act
+
+[https://en.wikipedia.org/wiki/CLOUD_Act](https://en.wikipedia.org/wiki/CLOUD_Act)
+
+> The Clarifying Lawful Overseas Use of Data Act or CLOUD Act (H.R. 4943) is a United States federal law enacted in 2018 by the passing of the Consolidated Appropriations Act, 2018, PL 115–141, Division V.
+
 ## Common Criteria (CC)
 
 [https://en.wikipedia.org/wiki/Common_Criteria](https://en.wikipedia.org/wiki/Common_Criteria)
