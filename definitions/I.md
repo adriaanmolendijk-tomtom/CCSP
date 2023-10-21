@@ -29,3 +29,9 @@
 [https://en.wikipedia.org/wiki/International_Organization_for_Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 
 > The International Organization for Standardization (ISO /ˈaɪsoʊ/) is an international standard development organization composed of representatives from the national standards organizations of member countries. Membership requirements are given in Article 3 of the ISO Statutes.
+
+## Intrusion Detection System (IDS)
+
+[https://en.wikipedia.org/wiki/Intrusion_detection_system](https://en.wikipedia.org/wiki/Intrusion_detection_system)
+
+> An intrusion detection system (IDS; also intrusion prevention system or IPS) is a device or software application that monitors a network or systems for malicious activity or policy violations.
