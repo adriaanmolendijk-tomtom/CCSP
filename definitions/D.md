@@ -59,3 +59,9 @@
 [https://en.wikipedia.org/wiki/DREAD_(risk_assessment_model)](https://en.wikipedia.org/wiki/DREAD_(risk_assessment_model))
 
 > DREAD is part of a system for risk-assessing computer security threats that was formerly used at Microsoft. It provides a mnemonic for risk rating security threats using five categories.
+
+## Dynamic Application Security Testing
+
+[https://en.wikipedia.org/wiki/Dynamic_application_security_testing](https://en.wikipedia.org/wiki/Dynamic_application_security_testing)
+
+> A dynamic application security testing (DAST) is a non functional testing process where one can assess an application using certain techniques and the end result of such testing process covers security weaknesses and vulnerabilities present in an application.

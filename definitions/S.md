@@ -30,11 +30,23 @@
 
 > Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. SaaS is also known as on-demand software, web-based software, or web-hosted software.
 
+## Software Composition Analysis (SCA)
+
+[https://en.wikipedia.org/wiki/Software_composition_analysis](https://en.wikipedia.org/wiki/Software_composition_analysis)
+
+> It is a common software engineering practice to develop software by using different components.
+
 ## Software Defined Networking (SDN)
 
 [https://en.wikipedia.org/wiki/Software-defined_networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 
 > Software-defined networking (SDN) technology is an approach to network management that enables dynamic, programmatically efficient network configuration to improve network performance and monitoring, in a manner more akin to cloud computing than to traditional network management.
+
+## Static Application Security Testing (SAST)
+
+[https://en.wikipedia.org/wiki/Static_application_security_testing](https://en.wikipedia.org/wiki/Static_application_security_testing)
+
+> Static application security testing (SAST) is used to secure software by reviewing the source code of the software to identify sources of vulnerabilities.
 
 ## STRIDE
 
