@@ -12,6 +12,12 @@
 
 > A hash function is any function that can be used to map data of arbitrary size to fixed-size values, though there are some hash functions that support variable length output.
 
+## Health Insurance Portability and Accountability Act (HIPAA)
+
+[https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act)
+
+> The Health Insurance Portability and Accountability Act of 1996 (HIPAA or the Kennedy–Kassebaum Act) is a United States Act of Congress enacted by the 104th United States Congress and signed into law by President Bill Clinton on August 21, 1996.
+
 ## Heating, Ventilation, and Air Conditioning (HVAC)
 
 [https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning](https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning)
