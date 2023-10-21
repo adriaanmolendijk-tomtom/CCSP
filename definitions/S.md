@@ -6,6 +6,12 @@
 
 > Security information and event management (SIEM) is a field within the field of computer security, where software products and services combine security information management (SIM) and security event management (SEM).
 
+## Security Operations Center
+
+[https://en.wikipedia.org/wiki/Security_operations_center](https://en.wikipedia.org/wiki/Security_operations_center)
+
+> A security operations center (SOC) is responsible for protecting an organization against cyber threats. SOC analysts perform round-the-clock monitoring of an organization’s network and investigate any potential security incidents.
+
 ## Serverless Computing
 
 [https://en.wikipedia.org/wiki/Serverless_computing](https://en.wikipedia.org/wiki/Serverless_computing)
