@@ -1,5 +1,11 @@
 # H
 
+## Hardware Security Module (HSM)
+
+[https://en.wikipedia.org/wiki/Hardware_security_module](https://en.wikipedia.org/wiki/Hardware_security_module)
+
+> A hardware security module (HSM) is a physical computing device that safeguards and manages secrets (most importantly digital keys), performs encryption and decryption functions for digital signatures, strong authentication and other cryptographic functions.
+
 ## Hash Function
 
 [https://en.wikipedia.org/wiki/Hash_function](https://en.wikipedia.org/wiki/Hash_function)
