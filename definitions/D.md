@@ -53,3 +53,9 @@
 [https://en.wikipedia.org/wiki/Disaster_recovery](https://en.wikipedia.org/wiki/Disaster_recovery)
 
 > Disaster recovery is the process of maintaining or reestablishing vital infrastructure and systems following a natural or human-induced disaster, such as a storm or battle. It employs policies, tools, and procedures. Disaster recovery focuses on information technology (IT) or technology systems supporting critical business functions as opposed to business continuity.
+
+## DREAD
+
+[https://en.wikipedia.org/wiki/DREAD_(risk_assessment_model)](https://en.wikipedia.org/wiki/DREAD_(risk_assessment_model))
+
+> DREAD is part of a system for risk-assessing computer security threats that was formerly used at Microsoft. It provides a mnemonic for risk rating security threats using five categories.

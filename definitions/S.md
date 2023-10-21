@@ -36,6 +36,12 @@
 
 > Software-defined networking (SDN) technology is an approach to network management that enables dynamic, programmatically efficient network configuration to improve network performance and monitoring, in a manner more akin to cloud computing than to traditional network management.
 
+## STRIDE
+
+[https://en.wikipedia.org/wiki/STRIDE_(security)](https://en.wikipedia.org/wiki/STRIDE_(security))
+
+> STRIDE is a model for identifying computer security threats developed by Praerit Garg and Loren Kohnfelder at Microsoft. It provides a mnemonic for security threats in six categories.
+
 ## Supply Chain Risk Management (SCRM)
 
 [https://en.wikipedia.org/wiki/Supply_chain_risk_management](https://en.wikipedia.org/wiki/Supply_chain_risk_management)
