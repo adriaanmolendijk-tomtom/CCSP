@@ -48,6 +48,12 @@
 
 > Software-defined networking (SDN) technology is an approach to network management that enables dynamic, programmatically efficient network configuration to improve network performance and monitoring, in a manner more akin to cloud computing than to traditional network management.
 
+## Statement of Work (SOW)
+
+[https://en.wikipedia.org/wiki/Statement_of_work](https://en.wikipedia.org/wiki/Statement_of_work)
+
+> A statement of work (SOW) is a document routinely employed in the field of project management. It is the narrative description of a project's work requirement.
+
 ## Static Application Security Testing (SAST)
 
 [https://en.wikipedia.org/wiki/Static_application_security_testing](https://en.wikipedia.org/wiki/Static_application_security_testing)
