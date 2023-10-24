@@ -1,5 +1,11 @@
 # D
 
+## Data Custodian
+
+[https://en.wikipedia.org/wiki/Data_custodian](https://en.wikipedia.org/wiki/Data_custodian)
+
+> Data custodians are responsible for the safe custody, transport, storage of the data and implementation of business rules.
+
 ## Data Lake
 
 [https://en.wikipedia.org/wiki/Data_lake](https://en.wikipedia.org/wiki/Data_lake)
