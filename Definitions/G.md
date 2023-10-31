@@ -1,11 +1,5 @@
 # G
 
-## General Data Protection Regulation (GDPR)
-
-[https://en.wikipedia.org/wiki/General_Data_Protection_Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
-
-> The General Data Protection Regulation (Regulation (EU) 2016/679, abbreviated GDPR) is a European Union regulation on information privacy in the European Union (EU) and the European Economic Area (EEA).
-
 ## Gramm–Leach–Bliley Act (GLBA)
 
 [https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act](https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act)
