@@ -12,12 +12,6 @@
 
 > Personal data, also known as personal information or personally identifiable information (PII), is any information related to an identifiable person.
 
-## Privacy Shield
-
-[https://en.wikipedia.org/wiki/EU%E2%80%93US_Privacy_Shield](https://en.wikipedia.org/wiki/EU%E2%80%93US_Privacy_Shield)
-
-> The EU–US Privacy Shield was a legal framework for regulating transatlantic exchanges of personal data for commercial purposes between the European Union and the United States.
-
 ## Protected Health Information
 
 [https://en.wikipedia.org/wiki/Protected_health_information](https://en.wikipedia.org/wiki/Protected_health_information)
