@@ -1,1 +1,0 @@
-# Domain 3: Cloud Platform and Infrastructure Security
