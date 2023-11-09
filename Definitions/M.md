@@ -6,6 +6,12 @@
 
 > Machine learning (ML) is an umbrella term for solving problems for which development of algorithms by human programmers would be cost-prohibitive, and instead the problems are solved by helping machines "discover" their "own" algorithms, without needing to be explicitly told what to do by any human-developed algorithms.
 
+## Master Service Agreement (MSA)
+
+[https://en.wikipedia.org/wiki/Master_service_agreement](https://en.wikipedia.org/wiki/Master_service_agreement)
+
+> A master service agreement, sometimes known as a framework agreement, is a contract reached between parties, in which the parties agree to most of the terms that will govern future transactions or future agreements.
+
 ## Metadata
 
 [https://en.wikipedia.org/wiki/Metadata](https://en.wikipedia.org/wiki/Metadata)
